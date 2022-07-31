@@ -33,22 +33,6 @@
       "id": 6
     },
     {
-      "nombre": "Karen Sanchez lu",
-      "empresa": "ITSX",
-      "email": "karen@san.com",
-      "telefono": "2828182391239",
-      "notas": "",
-      "id": 7
-    },
-    {
-      "nombre": "Sol Sanchez",
-      "empresa": "ITSX",
-      "email": "sol@missu.com",
-      "telefono": "",
-      "notas": "",
-      "id": 8
-    },
-    {
       "nombre": "Edgar",
       "empresa": "Codigo con mart",
       "email": "correo@corre.com",
